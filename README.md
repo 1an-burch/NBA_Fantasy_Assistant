@@ -10,12 +10,10 @@ An iOS app (SwiftUI) for managing a fantasy basketball squad. Browse real NBA pl
 - **Rising Stars tab** — surfaces the top under-24 players by category (points, assists, rebounds, steals, blocks) — a simple "who should I be watching" leaderboard
 
 ## Screenshots
-/Users/ianburch/Desktop/Screenshot 2026-10-08 at 3.41.57 PM.png
-/Users/ianburch/Desktop/Screenshot 2026-10-08 at 3.42.40 PM.png
-/Users/ianburch/Desktop/Screenshot 2026-10-08 at 3.43.02 PM.png
-/Users/ianburch/Desktop/Screenshot 2026-10-08 at 3.43.15 PM.png
-_Add a few screenshots here (Login, Players, Squad, Rising Stars) — drag them into this README or an `images/` folder and reference them with `![Players tab](images/players.png)`._
-
+! [Login View](images/login.png)
+! [Squad View](images/squad.png)
+! [Search View](images/search.png)
+! [Rising Stars View](images/rising.png)
 ## Requirements
 
 - Xcode 16+
